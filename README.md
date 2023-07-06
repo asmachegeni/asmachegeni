@@ -10,6 +10,6 @@
 
 ##
 ### Languages & tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,git,cpp,postman,xd,firebase,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,react,next,vue,git,cpp,postman,xd,firebase,wordpress)](https://skillicons.dev)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmachegeni&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
